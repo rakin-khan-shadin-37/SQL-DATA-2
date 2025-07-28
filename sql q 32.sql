@@ -1,0 +1,1 @@
+select * from student_records where student_id=(select min(student_id) from student_records);

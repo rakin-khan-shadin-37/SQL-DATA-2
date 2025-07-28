@@ -1,0 +1,1 @@
+SELECT * FROM tajwar.student_records where student_id % 2 !=0

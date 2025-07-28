@@ -1,0 +1,1 @@
+select department,avg(cgpa) as avarage_GPA from student_records group by department;

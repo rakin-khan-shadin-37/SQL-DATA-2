@@ -1,0 +1,1 @@
+select department,max(cgpa) as maxcgpa from student_records group by department;

@@ -1,0 +1,1 @@
+ create table CloneTable as select * from student_records;

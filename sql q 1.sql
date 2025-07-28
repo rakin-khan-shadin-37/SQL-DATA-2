@@ -1,0 +1,1 @@
+select upper(first_name) as STUDENT_NAME from student_records;

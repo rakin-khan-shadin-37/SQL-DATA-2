@@ -1,0 +1,1 @@
+select * from student_records order by cgpa desc limit 4,1;

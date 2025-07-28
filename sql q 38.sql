@@ -1,0 +1,1 @@
+select first_name, cgpa from student_records where cgpa=(select max(cgpa) from student_records);

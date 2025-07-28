@@ -1,0 +1,1 @@
+select s1. * from student_records s1,student_records s2 where s1.cgpa=s2.cgpa and s1.student_id!=s2.student_id;

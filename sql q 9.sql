@@ -1,0 +1,1 @@
+select * from student_records where first_name in ('tasin','razia');
